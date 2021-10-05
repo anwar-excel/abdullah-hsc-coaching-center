@@ -23,22 +23,17 @@ const Header = () => {
                         Home
                     </NavLink>
                     <NavLink
-                        to="/courses" activeStyle={{ fontWeight: "bold", color: "blue" }}>Courses
+                        to="/courses" activeStyle={{ fontWeight: "bold", color: "green" }}>Courses
                     </NavLink>
 
 
 
-                    <NavLink to="/contact-us" activeStyle={{ fontWeight: "bold", color: "blue" }}>
+                    <NavLink to="/contact-us" activeStyle={{ fontWeight: "bold", color: "green" }}>
                         Contact Us
                     </NavLink>
-
-
-
-                    <NavLink to="" activeStyle={{ fontWeight: "bold", color: "blue" }}>
-                        About Us
+                    <NavLink to="/goal" activeStyle={{ fontWeight: "bold", color: "green" }}>
+                        Goal
                     </NavLink>
-
-
 
                 </div>
             </div>

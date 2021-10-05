@@ -17,7 +17,14 @@ const Footer = () => {
 
 
             </div>
-            <div><h2>Address </h2></div>
+            <div>
+                <h2>Connected with Us </h2>
+                <div>
+                    <h3>Email:</h3>
+                    <input type="email" name="" id="" placeholder="Please Enter your email" />
+                </div>
+
+            </div>
         </div>
     );
 };
