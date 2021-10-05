@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    padding: 10px;
+    margin: 10px 10px;
+    color: cornflowerblue;
+    text-align: end;
+    text-decoration: none;
+}
+.home{
+    display: flex;
+    padding: 20px;
+}
