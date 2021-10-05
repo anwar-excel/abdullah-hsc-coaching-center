@@ -1,8 +1,8 @@
 import React from 'react';
-
+import './Goal.css'
 const Goal = () => {
     return (
-        <div>
+        <div className="goal">
             <h2>Major Goals Of Educational Institutions Management Essay</h2>
 
             <br />
