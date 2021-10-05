@@ -19,7 +19,7 @@ const Home = () => {
 
             <div className="course-container">
                 {
-                    courses.slice(0, 3).map(course => <Course
+                    courses.slice(0, 4).map(course => <Course
                         course={course}
                     ></Course>)
                 }
