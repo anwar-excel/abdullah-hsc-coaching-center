@@ -16,7 +16,7 @@ const Home = () => {
     return (
         <div>
 
-            <h2>Courses:{courses.length}</h2>
+
             <div className="course-container">
                 {
                     courses.slice(0, 3).map(course => <Course
